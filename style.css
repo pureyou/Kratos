@@ -719,11 +719,11 @@ table,table tbody tr th {
 }
 
 #kratos-logo a {
-	color: #fff
+	color: #333
 }
 
 #kratos-logo a:focus,#kratos-logo a:hover {
-	color: #fff!important;
+	color: #51aded!important;
 	text-decoration: none
 }
 
@@ -867,6 +867,9 @@ table,table tbody tr th {
 
 article a {
 	color: #333
+}
+article i {
+	color: #999
 }
 
 #slide {
@@ -2738,7 +2741,7 @@ img.size-smiley {
 }
 
 #footer {
-	background: #23282D;
+	background: #2d3237;
 	padding: 40px 0 30px
 }
 
